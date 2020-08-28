@@ -6,13 +6,13 @@ In this case i gonna build a little E-commerce like to amazon so enjoy it!
 
 Clone this repository and follor this steps:
 
-###  Dependencys for nodeJS: 
+###  Dependencies for nodeJS: 
 
 ' npm i @babel/cli @babel/core @babel/node @babel/present-env nodemon --save-dev '
 
 ' npm i  body-parser cors dotenv jsonwebtoken mongoose'
 
-### Dependencs for reactJS  ⚛️: 
+### Dependencies for reactJS  ⚛️: 
 
 ' npm i react react-router-dom redux react-redux redux-thunk js-cookie dotenv axios '
 
