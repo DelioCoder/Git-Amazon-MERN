@@ -12,7 +12,7 @@ Clone this repository and follor this steps:
 
 ' npm i  body-parser cors dotenv jsonwebtoken mongoose'
 
-### Dependencys for reactJS  ⚛️: 
+### Dependencs for reactJS  ⚛️: 
 
 ' npm i react react-router-dom redux react-redux redux-thunk js-cookie dotenv axios '
 
